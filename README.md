@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 
 # ✨ Peter Hinge
 
-**`AI Specialist`**
+**`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
-Hello, my name is Peter Hinge and I am a full stack developer and AI specialist. I thoroughly enjoy broadening my horizons and always seek to keep up with contemporary technological research and development, while also being product and result oriented. I am tech stack agnostic and a fast learner.
+My interests are technology, physics, finance and philosophy
 
-I also enjoy taking extensive notes as I learn, which has resulted in some elementary tutorials for different technologies. Feel free to check them out:
 
 ---
 
@@ -59,12 +58,12 @@ I also enjoy taking extensive notes as I learn, which has resulted in some eleme
 
 ![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterHinge&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PeterHinge&theme=gruvbox&border_radius=4.5)
+![Peter's GitHub Streak](https://streak-stats.demolab.com?user=PeterHinge&theme=gruvbox&border_radius=4.5)
 
 #
 
 <details>
  <summary><h3>👨‍💻 Peter's Coding Journey</h3></summary>
-   Hello
+   I have always had an enormous interest in technology and it's potential and influence on humankind's future. So when I witnessed the advancement in AI around the mid 2010's, due to the rise of big data and refined machine learning techniques, I became obsessed with learning more about it. Especially the parallels between artificial neural networks and the neural connections of the biological brain fascinated me deeply. I knew what I wanted to work with. So while pursuing a post-graduate degree in analytical philosophy, I decided to learn how to code those network, which I found so interesting. Luckily today, the most if not all MIT computer science courses can be found online along with numerous other ways to learn how to code well. After I graduated I spend an additional 6 months optimizing my coding skills and a month later, I landed a job as an ML engineer at a major defense and healthcare software company, doing exactly what I wanted to do – work with AI :)
    
 [website]: https://www.peterhinge.com
