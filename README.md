@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # ✨ Peter Hinge
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-hinge-denmark)
-[![Portfolio](https://img.shields.io/badge/Portfolio-succes?style=for-the-badge)](https://www.linkedin.com/in/peter-hinge-denmark)
-
 **`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
 My interests are technology, physics, finance and philosophy
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-hinge-denmark)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://www.linkedin.com/in/peter-hinge-denmark)
+[![Resume](https://img.shields.io/badge/Resume-brightgreen?style=for-the-badge)](https://docs.google.com/presentation/d/103N4MJnaIeKy4P0aaYxM_4yuVHTyq-BH337qM_c_LB4/edit#slide=id.gd991be5ce0_0_130)
 
 ---
 
