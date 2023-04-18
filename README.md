@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
-My interests are technology, physics, finance and philosophy
+My interests are technology, physics, finance and philosophy.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-hinge-denmark)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=github&logoColor=white)](https://peterhinge.github.io/)
