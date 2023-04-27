@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
 - My interests are technology, physics, finance and philosophy. 
-- My values are integrity, honesty and curiosity.
+- My values are integrity, curiosity and compassion.
 - 3+ years of professionel experience in ML Engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-hinge-denmark)
