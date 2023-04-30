@@ -1,4 +1,4 @@
-# ✨ Peter Hinge
+# Peter Hinge
 
 **`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
