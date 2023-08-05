@@ -2,9 +2,9 @@
 
 **`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
 
+- 3+ years of professionel experience in ML Engineering / Data Science.
 - My interests are technology, physics, finance and philosophy. 
 - My values are integrity, curiosity and responsibility.
-- 3+ years of professionel experience in ML Engineering.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-hinge-denmark)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=github&logoColor=white)](https://peterhinge.github.io/)
