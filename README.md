@@ -50,6 +50,8 @@
 
 ![Peter's GitHub Streak](https://streak-stats.demolab.com?user=PeterHinge&theme=gruvbox&border_radius=4.5)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHinge&layout=compact)
+
 #
 
 <details>
