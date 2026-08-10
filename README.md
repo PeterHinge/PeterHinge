@@ -1,8 +1,8 @@
 # Peter Hinge
 
-**`ML Engineer`** **`Full Stack`** **`Dev/ML OBS`** **`AI Specialist`**
+**`ML Engineer`** **`Full Stack`** **`DevOps/MLOps`** **`AI Specialist`**
 
-- 5+ years of professionel experience in ML Engineering / Data Science.
+- 7+ years of professionel experience in ML Engineering / Data Science.
 - My interests are technology, physics, finance and philosophy. 
 - My values are integrity, curiosity and responsibility.
 
