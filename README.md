@@ -48,11 +48,11 @@
 
 ### 📊 Stats
 
-![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterHinge&show_icons=true&theme=gruvbox)
+![Peter's GitHub Stats](https://YOUR-INSTANCE.vercel.app/api?username=PeterHinge&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 ![Peter's GitHub Streak](https://streak-stats.demolab.com?user=PeterHinge&theme=gruvbox&border_radius=4.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterHinge&layout=compact&theme=gruvbox)
+![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=PeterHinge&layout=compact&theme=gruvbox)
 
 #
 
